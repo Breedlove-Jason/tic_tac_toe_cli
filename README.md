@@ -2,6 +2,11 @@
 
 This is a simple implementation of the classic game Tic-Tac-Toe in Python. The game allows you to play against a computer opponent.
 ![tic_tac_toe.png](tic_tac_toe.png)
+```bash
+git clone https://github.com/j-breedlove/tic_tac_toe_cli.git
+cd tic_tac_toe_cli
+```
+
 ## How to Play
 
 1. Run the script in a Python environment.
